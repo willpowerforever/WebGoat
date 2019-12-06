@@ -4,8 +4,18 @@
     "owner": "Naive A"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": [],
+    "contributors": [
+      {
+        "name": "goat b"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "WebGoat Data Flow Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "goat A"
   }
 }
